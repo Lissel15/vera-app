@@ -115,14 +115,3 @@ Los cuatro tipos que reconoce la app:
 
 Este proyecto nace de una necesidad real: dar a los padres de niños autistas una herramienta rápida, silenciosa y sin fricción en los momentos más difíciles, cuando cada segundo y cada decisión cuentan. Vera no reemplaza el acompañamiento profesional, pero busca ser un apoyo inmediato y basado en patrones reales del niño.
 
----
-
-## 📌 Estado del proyecto
-
-En desarrollo activo — construido como proyecto de impacto social por **Liss** ([@Lissel15](https://github.com/Lissel15)), estudiante de Ingeniería en Sistemas Computacionales en UDLAP.
-
----
-
-## 📄 Licencia
-
-Por definir.

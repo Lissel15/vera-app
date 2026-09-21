@@ -1,4 +1,4 @@
-# 🧩 Vera
+# 🧩 Vega
 
 **Una app para acompañar a padres y cuidadores durante crisis (meltdowns) de niños en el espectro autista.**
 
